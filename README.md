@@ -2,6 +2,7 @@
 Файл конфигурации ESPHome, для настенной розетки на ESP8285+SCE7766+Custom DS18B20
 
 https://aliexpress.ru/item/1005004568734241.html?
+
 https://aliexpress.ru/item/1005004568724538.html?
 
 Возможности:
