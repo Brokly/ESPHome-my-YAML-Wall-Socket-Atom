@@ -1,0 +1,10 @@
+substitutions:
+  devicename: socket-atom-1
+  upper_devicename: Socket Atom Pos1
+  location: Для тестирования.
+  wifi_ip: !secret ip_socket_atom_1
+  dallas_senson_sn: '0x4c01227357188828'
+  current_offset: '0.0'
+  temperature_offset: '-15.0'
+
+<<: !include -socket-atom-pattern.yaml
